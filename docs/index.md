@@ -1,4 +1,8 @@
-# Hi, I'm Jamie
+# Hi, I'm Jamie!
+
+![An illustration of Jamie created from Picrew, an image creator website, based on the art style of "friend maker by Rowan". The illustration shows a person with a medium-tone skin, curly black hair, and thick sideburns and goatee.](./assets/jamie_picrew_via_pepperjackets.jpg)
+
+This icon is created from ["☆ friend maker ★ by Rowan"](https://picrew.me/image_maker/1322863) via Picrew.
 
 ## My pronouns: *they/them/theirs* or *he/him/his*
 
