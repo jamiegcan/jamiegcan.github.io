@@ -23,7 +23,7 @@ These notes come both from my own experiences as a marginalized person and my ob
 
 I also recognize that my knowledge is limited like everyone else's, and I may not have covered a topic completely or correctly. Feel free to send me comments and suggestions on these notes through any of the links in my [home page](./index.md).
 
-Continue reading for an in-depth explanation behind inclusive actions, or start with the [quick guide](./dei-quick-guide.md)!
+Continue reading for an in-depth explanation behind inclusive actions, or start with the [**quick guide**](./dei-quick-guide.md)!
 
 ## Ask instead of assuming!
 
