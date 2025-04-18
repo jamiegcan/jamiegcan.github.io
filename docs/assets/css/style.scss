@@ -29,13 +29,16 @@
     color: #116600;
 }
 
+.main-content blockquote {
+    padding: 0 1rem;
+    margin-left: 0;
+    color: #533736;
+    border-left: 0.3rem solid #BAA9AC;
+}
+
 a {
     color: #0207A7;
     text-decoration: none;
-}
-
-blockquote {
-    color: #424242;
 }
 
 body {
