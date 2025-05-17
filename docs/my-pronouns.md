@@ -18,6 +18,14 @@ Just to be clear about my gender: I am one of the many non-binary individuals, v
 
 *He/him/his* is also okay for me in some cases, but I highly prefer *they/them/theirs*. It's always a good thing to represent non-binary individuals more often in daily life!
 
+> "Did you see Jamie?"
+>
+> "I saw **him** at the hallway. I think **he's** on the way back to **his** desk."
+>
+> "Is the lunch box on the pantry table **his**?"
+>
+> "I think so. **He** should clean that up **himself** soon."
+
 When in doubt, it's safe to avoid pronouns and just use my name when referring to me.
 
 Example:
